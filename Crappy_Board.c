@@ -1,10 +1,8 @@
-// Osu!_Board
-
 // Created by :
-// Raihan Athallah Aditya             - 185150300111016 : Coding, error, repeat
-// Aulia Nabih Rizqullah              - 185150300111017 : Coding, case modeling
-// Dionisius Marcello Divito          - 185150300111029 : Soldering, PCB layout, coding, ngebrick :(
-// Willy Septian Andreas Sigalingging - 185150307111012 : Funding, cari toko, sparepart, coding final
+// Raihan Athallah Aditya
+// Aulia Nabih Rizqullah
+// Dionisius Marcello Divito
+// Willy Septian Andreas Sigalingging
 
 // Thx to Charles Garcia :^)
 
